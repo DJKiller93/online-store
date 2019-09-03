@@ -5,7 +5,7 @@ Vue.use(Vuex);
 
 export default new Vuex.Store({
   state: {
-    cart: [53363],
+    cart: [],
     products: [
       {
         name: "Crewneck T-Shirt",
